@@ -103,20 +103,25 @@
 ## 📊 工作室数据
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DreamArk-Studio&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophy" />
+  <img src="https://img.shields.io/badge/📦_仓库数-持续更新-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/⭐_Stars-持续积累-FFD93D?style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
+  <img src="https://img.shields.io/badge/👥_Followers-欢迎加入-4ECDC4?style=for-the-badge&logo=people&logoColor=white" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DreamArk-Studio&theme=radical&hide_border=true&locale=cn" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/🔧_开源项目-持续贡献-FF6B6B?style=for-the-badge" alt="Open Source" />
+  <img src="https://img.shields.io/badge/📝_代码提交-活跃开发-96CEB4?style=for-the-badge" alt="Commits" />
+  <img src="https://img.shields.io/badge/🌟_技术分享-知识传播-45B7D1?style=for-the-badge" alt="Sharing" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamArk-Studio&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <strong>📈 数据持续更新中...</strong><br/>
+  <em>关注我们的 GitHub 组织，见证成长历程</em>
 </p>
 
 ---
 
-##  我们的优势
+## 🎯 我们的优势
 
 <table align="center">
   <tr>
