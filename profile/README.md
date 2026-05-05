@@ -103,10 +103,11 @@
 ## 📊 工作室数据
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/DreamArk-Studio/.github?style=for-the-badge&logo=github&logoColor=white&label=仓库大小&color=58A6FF" alt="Repo Size" />
-  <img src="https://img.shields.io/github/last-commit/DreamArk-Studio/.github?style=for-the-badge&logo=git&logoColor=white&label=最后提交&color=4ECDC4" alt="Last Commit" />
-  <img src="https://img.shields.io/github/languages/top/DreamArk-Studio/.github?style=for-the-badge&logo=code&logoColor=white&label=主要语言&color=FF6B6B" alt="Top Language" />
-  <img src="https://img.shields.io/github/commit-activity/m/DreamArk-Studio/.github?style=for-the-badge&logo=github&logoColor=white&label=月提交&color=96CEB4" alt="Monthly Commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DreamArk-Studio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamArk-Studio&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
