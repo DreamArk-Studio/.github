@@ -100,7 +100,15 @@
 
 ---
 
-##  我们的优势
+##  工作室数据
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamArk-Studio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 我们的优势
 
 <table align="center">
   <tr>
