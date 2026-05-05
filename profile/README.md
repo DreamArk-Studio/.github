@@ -100,15 +100,23 @@
 
 ---
 
-##  工作室数据
+## 📊 工作室数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamArk-Studio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DreamArk-Studio&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DreamArk-Studio&theme=radical&hide_border=true&locale=cn" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamArk-Studio&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🎯 我们的优势
+##  我们的优势
 
 <table align="center">
   <tr>
