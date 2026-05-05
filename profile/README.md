@@ -100,17 +100,6 @@
 
 ---
 
-## 📊 工作室数据
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/DreamArk-Studio/phone_verification?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit&color=4ECDC4" alt="Last Commit" />
-  <img src="https://img.shields.io/github/languages/top/DreamArk-Studio/phone_verification?style=for-the-badge&logo=javascript&logoColor=white&label=Top%20Language&color=FF6B6B" alt="Top Language" />
-  <img src="https://img.shields.io/github/license/DreamArk-Studio/phone_verification?style=for-the-badge&logo=github&logoColor=white&label=License&color=96CEB4" alt="License" />
-  <img src="https://img.shields.io/github/stars/DreamArk-Studio/phone_verification?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=FFD93D" alt="Stars" />
-</p>
-
----
-
 ##  我们的优势
 
 <table align="center">
@@ -173,10 +162,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DreamArk-Studio&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-</p>
 
 <p align="center">
   <strong>© 2024-2026 DreamArk Studio. All Rights Reserved.</strong><br/>
